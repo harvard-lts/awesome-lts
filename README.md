@@ -39,4 +39,4 @@ Page Delivery Service (PDS)
 
 Streaming Delivery Service (SDS)
 
-- [Video Streaming From S3](https://drive.google.com/file/d/1W8SX_igT6PSnzX5Iy2TNORRJVtAGJ195/view?usp=sharing.-) Demo Of Video Streaming FROM S3
+- [Video Streaming From S3](https://drive.google.com/file/d/1W8SX_igT6PSnzX5Iy2TNORRJVtAGJ195/view?usp=sharing.-) Demo Of Video Streaming From S3
