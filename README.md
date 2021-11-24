@@ -27,6 +27,7 @@ Multimedia Presentation Service (MPS).
 - [MPS Asset Delivery Files Service Demo](https://harvard.zoom.us/rec/share/9aHNaPzah875Gq6eSkL8wKz6hoWBNZQ6ey2HE7b2CILK2yP2vcqWFcN5a7VMRk7t.2yDHB2OwqMeZ8c5B) Demo of the service used to get files from S3 directly.
 - [MPS Lookup Demo](https://harvard.zoom.us/rec/share/8see-ndwzL32xaQWTDfPp-YfNBNhWv6TivQqHsmXqYFjVmrVjGK9N-xbSNU7hiax.L8OPnFJ5M9j_dh6p) Demo of the MPS Lookup.
 - [MPS Viewer Mirador 3 Demo](https://harvard.zoom.us/rec/share/pqBV-a8ZWfkNgCZq7Fw7_xnxw0tVMh9MMzCW0fQkNw5Yauhmywdfgp7bdp7ACklg.WcU3VqTuh6nDpmsw)  Demo of the new MPS Viewer using [Mirador 3](https://github.com/ProjectMirador/mirador).
+- [MPS Kiosk Login Workflow Demo](https://harvard.zoom.us/rec/share/ACTtWQjxpYjCOzFVJgv5RkWL28tjzOkuhTr0zJ3vZ84iNQMYBZCSaO-eTrTmXzc2.d0tCpNk7T16_lBbN) Demo of the MPS Kiosk Login Workflow.
 
 ## Page Delivery Service
 
