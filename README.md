@@ -11,18 +11,19 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 - [Multimedia Presentation Service](#multimedia-presentation-service)
 - [Page Delivery Service](#page-delivery-service)
 - [Streaming Delivery Service](#streaming-delivery-service)
+- [Project Sprint Demos](#project-sprint-demos)
 
 
 ## Full Text Search
 
-Full Text Search (FTS).
+Full Text Search (FTS)
 
 - [FTS Walkthrough](https://drive.google.com/file/d/1Ce6Ltz2oAiWQNt1liexYrdx_C7we2Ok6/view?usp=sharing) Part 1 of the demo showcasing the new FTS service.
 - [FTS Loader Demo](https://drive.google.com/file/d/1IvKwK5otPXP7y-Ao3cQXiFLqQV4BVl8t/view?usp=sharing) Part 2 of the demo showcasing the new FTS service focusing on the FTS Loader.
 
 ## Multimedia Presentation Service
 
-Multimedia Presentation Service (MPS).
+Multimedia Presentation Service (MPS)
 
 - [MPS Asset Delivery Files Service Demo](https://harvard.zoom.us/rec/share/9aHNaPzah875Gq6eSkL8wKz6hoWBNZQ6ey2HE7b2CILK2yP2vcqWFcN5a7VMRk7t.2yDHB2OwqMeZ8c5B) Demo of the service used to get files from S3 directly.
 - [MPS Lookup Demo](https://harvard.zoom.us/rec/share/8see-ndwzL32xaQWTDfPp-YfNBNhWv6TivQqHsmXqYFjVmrVjGK9N-xbSNU7hiax.L8OPnFJ5M9j_dh6p) Demo of the MPS Lookup.
@@ -42,3 +43,9 @@ Streaming Delivery Service (SDS)
 
 - [Audio Streaming From S3](https://drive.google.com/file/d/1jTCTFbclzMlLMW02A4ASfneEZhwkNVTm/view?usp=sharing.-) Demo Of Audio Streaming From S3
 - [Video Streaming From S3](https://drive.google.com/file/d/1W8SX_igT6PSnzX5Iy2TNORRJVtAGJ195/view?usp=sharing.-) Demo Of Video Streaming From S3
+
+## Project Sprint Demos
+
+Viewer Update Project
+
+- [Sprint 3: November 30, 2021](https://harvard.zoom.us/rec/share/a-HJdMRbEVQHyXQJy2f8b9O5PLKAaNyjoAHIXt3wRmifBqWkJpxINeLjdEMJntDv.Xuyf8lrP3faToP7d) Sprint 3 Demo on the Viewer Update Project. Runtime: 9:19
