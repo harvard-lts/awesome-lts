@@ -7,12 +7,18 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
 ## Contents
+- [Digital Repository Service](#digital-repository-service)
 - [Full Text Search](#full-text-search)
 - [Multimedia Presentation Service](#multimedia-presentation-service)
 - [Page Delivery Service](#page-delivery-service)
 - [Streaming Delivery Service](#streaming-delivery-service)
 - [Project Sprint Demos](#project-sprint-demos)
 
+## Digital Repository Service
+
+Digital Repository Service (DRS)
+
+- [DRS Storage Migration Overview](https://drive.google.com/file/d/1RW6nvKqYhGjDZSq6odsPyI63GP77lun8/view?usp=sharing)
 
 ## Full Text Search
 
