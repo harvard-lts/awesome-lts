@@ -55,3 +55,4 @@ Streaming Delivery Service (SDS)
 Viewer Update Project
 
 - [Sprint 3: November 30, 2021](https://harvard.zoom.us/rec/share/a-HJdMRbEVQHyXQJy2f8b9O5PLKAaNyjoAHIXt3wRmifBqWkJpxINeLjdEMJntDv.Xuyf8lrP3faToP7d) Sprint 3 Demo on the Viewer Update Project. Runtime: 9:19
+- [Sprint 4: December 14, 2021](https://harvard.zoom.us/rec/share/kP_60Du1-M94SCq6KpFOcLNEYy8kNsoft5JvhAFmhVTejtrbK6EU3poQp3FbfGBw.bjR0Xme8kR9MLSfq) Sprint 4 Demo on the Viewer Update Project. Runtime: 5:15
