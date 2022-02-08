@@ -58,3 +58,4 @@ Viewer Update Project
 - [Sprint 3: November 30, 2021](https://harvard.zoom.us/rec/share/a-HJdMRbEVQHyXQJy2f8b9O5PLKAaNyjoAHIXt3wRmifBqWkJpxINeLjdEMJntDv.Xuyf8lrP3faToP7d) Sprint 3 Demo on the Viewer Update Project. Runtime: 9:19
 - [Sprint 4: December 14, 2021](https://harvard.zoom.us/rec/share/kP_60Du1-M94SCq6KpFOcLNEYy8kNsoft5JvhAFmhVTejtrbK6EU3poQp3FbfGBw.bjR0Xme8kR9MLSfq) Sprint 4 Demo on the Viewer Update Project. Runtime: 5:15
 - [Sprint 5: January 11, 2022](https://harvard.zoom.us/rec/share/KOV9pazFAQq9oveCgk1c3DzAmpDpRUd2CGtP3CGsDbaHzpKVjL5KHH33jCiAcmq7.1GSxz7IX3batllsw) Sprint 5 Demo on the Viewer Update Project. Runtime: 12:11
+- [Sprint 7: February 8, 2022](https://harvard.zoom.us/rec/play/zepPDe2X1fO9NElW6j7zzdavkhYxAtDpDEZskM-w6nGVr4qeaAMzmmNVlDasa1PVy5S0lwSjZftzLp6r.1quThgmWCAq4weQe) Sprint 7 Demo on the Viewer Update Project. Runtime: 8:12 
