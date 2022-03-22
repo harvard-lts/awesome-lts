@@ -62,8 +62,11 @@ Viewer Update Project
 
 ## Harvard Data Commons
 Automating the flow of research data to preservation.
+
+### Objective 3A
 HDC3A objective includes export of data from Dataverse and import into the DRS using the Import Management Service and the Translation Service.
 
+#### 2022-03-22 Sprint demos
 - [DRS Import Management Service Messaging](https://drive.google.com/file/d/1BdwE1UkxxZLLaqtiQvYwDc_yhOPsqrv3/view?usp=sharing) Demo of messaging between the DIMS and Queues
 - [DRS Translation Service Messaging](https://drive.google.com/file/d/1jKYAslmykwedAIwJ7qBj8K2Q3_3Sdeph/view?usp=sharing) Demo of messaging between DTS and Queues
 - [HDC3A CI/CD](https://drive.google.com/file/d/191VR3tHxCmgRKf9C8sdPkcC0XIspXAwJ/view?usp=sharing) Demo of CI/CD for the HDC3A objective
