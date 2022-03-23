@@ -70,3 +70,5 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [DRS Import Management Service Messaging](https://drive.google.com/file/d/1BdwE1UkxxZLLaqtiQvYwDc_yhOPsqrv3/view?usp=sharing) Demo of messaging between the DIMS and Queues
 - [DRS Translation Service Messaging](https://drive.google.com/file/d/1jKYAslmykwedAIwJ7qBj8K2Q3_3Sdeph/view?usp=sharing) Demo of messaging between DTS and Queues
 - [HDC3A CI/CD](https://drive.google.com/file/d/191VR3tHxCmgRKf9C8sdPkcC0XIspXAwJ/view?usp=sharing) Demo of CI/CD for the HDC3A objective
+- [Dataverse Archiving](https://drive.google.com/file/d/1Psqv3fKNvS5yPiQF7rg2xA-fxyslBVVE/view?usp=sharing) Dataverse Archiving and Bag/OAI-ORE formats
+- [HDC3A Dataverse Progress](https://drive.google.com/file/d/1zttHttlMXJWg3xen_BcBALBzS1OAyjoj/view?usp=sharing) Dataverse HDC3A Progress 3/23/2022
