@@ -72,3 +72,9 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [HDC3A CI/CD](https://drive.google.com/file/d/191VR3tHxCmgRKf9C8sdPkcC0XIspXAwJ/view?usp=sharing) Demo of CI/CD for the HDC3A objective
 - [Dataverse Archiving](https://drive.google.com/file/d/1Psqv3fKNvS5yPiQF7rg2xA-fxyslBVVE/view?usp=sharing) Dataverse Archiving and Bag/OAI-ORE formats
 - [HDC3A Dataverse Progress](https://drive.google.com/file/d/1zttHttlMXJWg3xen_BcBALBzS1OAyjoj/view?usp=sharing) Dataverse HDC3A Progress 3/23/2022
+
+### Objective 3B
+HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
+
+#### 2022-04-05 Sprint demos
+- Coming soon!
