@@ -73,6 +73,10 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [Dataverse Archiving](https://drive.google.com/file/d/1Psqv3fKNvS5yPiQF7rg2xA-fxyslBVVE/view?usp=sharing) Dataverse Archiving and Bag/OAI-ORE formats
 - [HDC3A Dataverse Progress](https://drive.google.com/file/d/1zttHttlMXJWg3xen_BcBALBzS1OAyjoj/view?usp=sharing) Dataverse HDC3A Progress 3/23/2022
 
+#### 2022-04-05 Sprint demos
+- [DRS Import Management Service Ingest Controller](https://drive.google.com/file/d/1RuTvI4tkgwCpvQCAskW9zruFi3LKozej/view) Demo of request to DIMS for ingest, followed by DIMS publishing message to "Processing Queue"
+
+
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
