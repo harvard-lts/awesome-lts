@@ -76,6 +76,8 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 #### 2022-04-05 Sprint demos
 - [DRS Import Management Service Ingest Controller](https://drive.google.com/file/d/1RuTvI4tkgwCpvQCAskW9zruFi3LKozej/view) Demo of request to DIMS for ingest, followed by DIMS publishing message to "Processing Queue"
 - [DIMS-DTS-Queuing Workflow](https://drive.google.com/file/d/1j2ZpKr2wDfsNz-CarjfzbRGi4bBwa-gx/view)
+- [DTS Deployment with Jenkins](https://drive.google.com/file/d/1bO5JALg9dJHZ5fQ6ysAKI5ppYQx9nNAK/view?usp=sharing)
+- [DIMS Integration Tetss with Jenkins](https://drive.google.com/file/d/1OXdbG_UwYgbK2gYuM0u7DckVCZ2m-odW/view?usp=sharing)
 
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
