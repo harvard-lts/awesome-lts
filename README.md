@@ -83,4 +83,4 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
 #### 2022-04-05 Sprint demos
-- Coming soon!
+- [DASH-Dataverse-COAR-Notify](https://drive.google.com/file/d/1bBgp5nM2QD8kiG1sIGKRGl2difDyB3Nx/view?usp=sharing)
