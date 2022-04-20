@@ -79,6 +79,11 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [DTS Deployment with Jenkins](https://drive.google.com/file/d/1bO5JALg9dJHZ5fQ6ysAKI5ppYQx9nNAK/view?usp=sharing)
 - [DIMS Integration Tetss with Jenkins](https://drive.google.com/file/d/1OXdbG_UwYgbK2gYuM0u7DckVCZ2m-odW/view?usp=sharing)
 
+#### 2022-04-19 Sprint demos
+- [Batch Builder Opaque](https://drive.google.com/file/d/1j4ddK_fI6PQue6CRxSC1YmY8PZFUsk6i/view?usp=sharing) Demo of Batch Builder UI creating an Opaque descirptor with any roles or relationships
+- [DIMS-JWT and Status](https://drive.google.com/file/d/1FH2gIwP7e8f_G1da7Bqpn-m4q5Ur1q-j/view?usp=sharing) Demo of authentication of Dataverse requests and reporting status to Dataverse
+- [Integration Test Container](https://drive.google.com/file/d/1S9LvD89Cv4dl-ShwSu_oyY8jh3rFTwCK/view?usp=sharing) Demo of containerized integration tests
+
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
