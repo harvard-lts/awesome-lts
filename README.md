@@ -84,6 +84,10 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [DIMS-JWT and Status](https://drive.google.com/file/d/1FH2gIwP7e8f_G1da7Bqpn-m4q5Ur1q-j/view?usp=sharing) Demo of authentication of Dataverse requests and reporting status to Dataverse
 - [Integration Test Container](https://drive.google.com/file/d/1S9LvD89Cv4dl-ShwSu_oyY8jh3rFTwCK/view?usp=sharing) Demo of containerized integration tests
 
+#### 2022-05-03 Sprint demos
+- [Integration Test Demo](https://drive.google.com/file/d/1Ux8TEdqsk0nfef09fybc3p0OIGTXMfWa/view) Demo of Integration Tests
+- [DIMS Error Handling](https://drive.google.com/file/d/17Ai3K1te2XfnIFCwd4D9kTdLKpZVli5a/view) Demo of DIMS Error Handling
+
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
