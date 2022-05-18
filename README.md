@@ -88,6 +88,11 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 - [Integration Test Demo](https://drive.google.com/file/d/1Ux8TEdqsk0nfef09fybc3p0OIGTXMfWa/view) Demo of Integration Tests
 - [DIMS Error Handling](https://drive.google.com/file/d/17Ai3K1te2XfnIFCwd4D9kTdLKpZVli5a/view) Demo of DIMS Error Handling
 
+#### 2022-05-16 Sprint demos
+- [DIMS Healthcheck and Status Demo](https://drive.google.com/file/d/11xDPVHqo-W8AunjsL-xfLlAe1DcUtZvC/view) Demo of DIMS Healthcheck and DIMS to DVN Status Report
+- [Transfer Service Functionality](https://drive.google.com/file/d/1ruWFQnVC8bkiIslYXJdTO9OxGJxw2TK1/view) Demo of the Transfer Service Data trasfer, unxipping, and validation
+- [Translation Service Data Directory Formatting](https://drive.google.com/file/d/14qTMQkaLmiNgMoHJb5ygsQCyNNvdI4WO/view) Demo of DRS Translation Service Data Directory Formatting
+
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
