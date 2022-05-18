@@ -13,6 +13,7 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 - [Page Delivery Service](#page-delivery-service)
 - [Streaming Delivery Service](#streaming-delivery-service)
 - [Project Sprint Demos](#project-sprint-demos)
+- [Starfish Whistleblower](#starfish-whistleblower)
 
 ## Digital Repository Service
 
@@ -93,3 +94,9 @@ HDC3B objective focuses on semi-automatically cross-linking articles published i
 
 #### 2022-04-05 Sprint demos
 - [DASH-Dataverse-COAR-Notify](https://drive.google.com/file/d/1bBgp5nM2QD8kiG1sIGKRGl2difDyB3Nx/view?usp=sharing)
+
+## Starfish Whistleblower
+
+Starfish Whistleblower is validation tool for Starfish replications. 
+
+- [Sprint 2: May 17, 2022](https://drive.google.com/file/d/1Y_3j5m7mHUNLLc9-8OhIq8ivpCHoheoF/view?usp=sharing) Sprint 2 Demo on the Starfish Whistleblower Project. Runtime: 5:53
