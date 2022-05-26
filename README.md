@@ -98,3 +98,6 @@ HDC3B objective focuses on semi-automatically cross-linking articles published i
 
 #### 2022-04-05 Sprint demos
 - [DASH-Dataverse-COAR-Notify](https://drive.google.com/file/d/1bBgp5nM2QD8kiG1sIGKRGl2difDyB3Nx/view?usp=sharing)
+
+#### 2022-05-30 Sprint 7 demo
+- [DASH-Dataverse-COAR-Notify](https://drive.google.com/file/d/1EgQ7xyPdhbEKRyDfhbGezfoyyEgQSiZt/view?usp=sharing)
