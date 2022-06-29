@@ -96,6 +96,10 @@ HDC3A objective includes export of data from Dataverse and import into the DRS u
 #### 2022-05-31 Sprint demo
 - [DIMS-DLQ Demo](https://drive.google.com/file/d/1nLxF2cYMvVWAQeJat9-QjOriLjp4tI6I/view?usp=sharing) Demo of failed messages from DIMS handled by the DLQ service
 
+#### 2022-06-29 Final demo
+- [Final Demo - Happy Path](https://drive.google.com/file/d/1pHVF15bK3R0hQqc9qRv_zaQLOLpYTyah/view?usp=sharing) Final demo of a successful automatic ingest of Dataverse exports into DRS
+- [Final Demo - Full](https://drive.google.com/file/d/1kSCX6kXcnfB79OMVdTB4n9pLs9uoiyrC/view?usp=sharing) Final demo of automatic ingests of Dataverse exports into DRS, including successful, failed, and message error scenarios
+
 ### Objective 3B
 HDC3B objective focuses on semi-automatically cross-linking articles published in DASH and their supporting datasets found in Dataverse.
 
