@@ -35,7 +35,8 @@ Multimedia Presentation Service (MPS)
 - [MPS Lookup Demo](https://harvard.zoom.us/rec/share/8see-ndwzL32xaQWTDfPp-YfNBNhWv6TivQqHsmXqYFjVmrVjGK9N-xbSNU7hiax.L8OPnFJ5M9j_dh6p) Demo of the MPS Lookup.
 - [MPS Viewer Mirador 3 Demo](https://harvard.zoom.us/rec/share/pqBV-a8ZWfkNgCZq7Fw7_xnxw0tVMh9MMzCW0fQkNw5Yauhmywdfgp7bdp7ACklg.WcU3VqTuh6nDpmsw)  Demo of the new MPS Viewer using [Mirador 3](https://github.com/ProjectMirador/mirador).
 - [MPS Kiosk Login Workflow Demo](https://harvard.zoom.us/rec/share/ACTtWQjxpYjCOzFVJgv5RkWL28tjzOkuhTr0zJ3vZ84iNQMYBZCSaO-eTrTmXzc2.d0tCpNk7T16_lBbN) Demo of the MPS Kiosk Login Workflow.
-- [Ingest Demo](https://drive.google.com/file/d/1LvIHaIBLaSNkEWZHqNTBVhlVOWpAnl2w/view?usp=sharing) Demo of mps-ingest, 2/1/2022
+- [MPS Ingest Demo](https://drive.google.com/file/d/1LvIHaIBLaSNkEWZHqNTBVhlVOWpAnl2w/view?usp=sharing) Demo of mps-ingest, 2/1/2022
+- [MPS Ingest of DRS Content Demo](https://harvard.zoom.us/rec/share/lLw1-Ry981gq6369RdKbJEAMEV8bYqF946tSlULu3UO7Zu15oKKUufV4qHJLoB8P.EQwtiNpy3oi4_vHE) Demo of first iteration of full workflow for ingesting DRS content, 7/27/2022
 
 ## Page Delivery Service
 
