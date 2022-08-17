@@ -8,6 +8,7 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 
 ## Contents
 - [Digital Repository Service](#digital-repository-service)
+- [EPadd Integration with DRS](#epadd-integration-with-drs)
 - [Full Text Search](#full-text-search)
 - [Multimedia Presentation Service](#multimedia-presentation-service)
 - [Page Delivery Service](#page-delivery-service)
@@ -19,6 +20,10 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 Digital Repository Service (DRS)
 
 - [DRS Storage Migration Overview](https://drive.google.com/file/d/1RW6nvKqYhGjDZSq6odsPyI63GP77lun8/view?usp=sharing)
+
+EPadd Integration with DRS
+
+-[EPadd-to-DRS Workflow, Phase 1](https://drive.google.com/file/d/1XKI0Uho2784XR5UBtR5_d6Tmli7u25YI/view?usp=sharing)
 
 ## Full Text Search
 
