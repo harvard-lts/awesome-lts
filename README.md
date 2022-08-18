@@ -63,7 +63,7 @@ Viewer Update Project
 ## Harvard Data Commons
 Automating the flow of research data to preservation.
 
-### Objective 3A
+### Objective 3A (using DRS Automated Ingest Service-DAIS)
 HDC3A objective includes export of data from Dataverse and import into the DRS using the Import Management Service and the Translation Service.
 
 #### 2022-03-22 Sprint demos
@@ -108,3 +108,11 @@ HDC3B objective focuses on semi-automatically cross-linking articles published i
 
 #### 2022-05-30 Sprint 7 demo
 - [DASH-Dataverse-COAR-Notify](https://drive.google.com/file/d/1EgQ7xyPdhbEKRyDfhbGezfoyyEgQSiZt/view?usp=sharing)
+
+## ePADD (using DRS Automated Ingest Service-DAIS)
+Automating the flow of data from ePADD into the DRS
+
+### 2022-08-23 Sprint demos
+- [ePADD to DRS End-to-End Flow](https://drive.google.com/file/d/1XKI0Uho2784XR5UBtR5_d6Tmli7u25YI/view?usp=sharing) Demo of exporting a batch of data from ePADD, compressing the data into a zip file, using Batch Builder to build an Opaque Container with the data, depositing the data into DRS, and verifying the data in Web Admin
+- [Reconnecting to Nextcloud](https://drive.google.com/file/d/1tDLJimPE88efW2pqimYHrtbsKf44eiGn/view?usp=sharing) Demo of how to reconnect to Nextcloud should your connection dropped.  This requires that the Nextcloud Client already setup for use.
+- [Exporting ePADD into S3 using Nextcloud](https://drive.google.com/file/d/1BcNgTjEXfMrWWzJFiZtMrToK481fMr4_/view?usp=sharing) Demo of how to export from ePADD directly into the S3 bucket.  This requires that the Nextcloud Cliend is already setup for use.
