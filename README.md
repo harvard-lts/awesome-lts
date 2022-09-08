@@ -116,3 +116,6 @@ Automating the flow of data from ePADD into the DRS
 - [ePADD to DRS End-to-End Flow](https://drive.google.com/file/d/1XKI0Uho2784XR5UBtR5_d6Tmli7u25YI/view?usp=sharing) Demo of exporting a batch of data from ePADD, compressing the data into a zip file, using Batch Builder to build an Opaque Container with the data, depositing the data into DRS, and verifying the data in Web Admin
 - [Reconnecting to Nextcloud](https://drive.google.com/file/d/1tDLJimPE88efW2pqimYHrtbsKf44eiGn/view?usp=sharing) Demo of how to reconnect to Nextcloud should your connection dropped.  This requires that the Nextcloud Client already setup for use.
 - [Exporting ePADD into S3 using Nextcloud](https://drive.google.com/file/d/1BcNgTjEXfMrWWzJFiZtMrToK481fMr4_/view?usp=sharing) Demo of how to export from ePADD directly into the S3 bucket.  This requires that the Nextcloud Cliend is already setup for use.
+
+### 2022-09-06 Sprint demos
+- [ePADD Curator App](https://drive.google.com/file/d/1PUpGV9xAgjXvbmp3q2AHt0wo5FjzP-V4/view?usp=sharing) Demo of the curator app finding an export in the S3 bucket and calling DIMS to kick off the ingest pipeline.
