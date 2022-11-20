@@ -119,3 +119,9 @@ Automating the flow of data from ePADD into the DRS
 
 ### 2022-09-06 Sprint demos
 - [ePADD Curator App](https://drive.google.com/file/d/1PUpGV9xAgjXvbmp3q2AHt0wo5FjzP-V4/view?usp=sharing) Demo of the curator app finding an export in the S3 bucket and calling DIMS to kick off the ingest pipeline.
+
+## JStor / ArchivesSpace Harvesting
+
+### 2022-11-16 Sprint demo
+- [JStor/ASpace 'helloworld' pipeline](https://drive.google.com/file/d/12QrBwFvJ_fBrr002oxMyhy76o_LSqNFJ/view?usp=share_link) Demo of initial, connected components in harvest/transform/publish pipeline
+- []
