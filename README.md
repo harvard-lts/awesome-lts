@@ -124,4 +124,3 @@ Automating the flow of data from ePADD into the DRS
 
 ### 2022-11-16 Sprint demo
 - [JStor/ASpace 'helloworld' pipeline](https://drive.google.com/file/d/12QrBwFvJ_fBrr002oxMyhy76o_LSqNFJ/view?usp=share_link) Demo of initial, connected components in harvest/transform/publish pipeline
-- []
