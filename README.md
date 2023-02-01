@@ -120,6 +120,13 @@ Automating the flow of data from ePADD into the DRS
 ### 2022-09-06 Sprint demos
 - [ePADD Curator App](https://drive.google.com/file/d/1PUpGV9xAgjXvbmp3q2AHt0wo5FjzP-V4/view?usp=sharing) Demo of the curator app finding an export in the S3 bucket and calling DIMS to kick off the ingest pipeline.
 
+### 2023-01-24 Sprint demos
+- [ePADD export to DRS demo](https://drive.google.com/file/d/1gF_A4ULirgrIkE6ZQZZBIZ499smWdlM0/view?usp=share_link) Demo of moving an ePADD export from the S3 bucket into the DRS
+
+### 2023-02-07 Sprint demos
+- [Debugging with PDB](https://drive.google.com/file/d/15sXyk6NTzRWUS3r5Qsymxmsc4Z3vMlHY/view?usp=share_link) Demo on how to setup Pdb debugging locally.
+- [Remote debugging with PDB](https://drive.google.com/file/d/1M5IBJ0cxcJacGWCJqjMtQbF6SLM04i4M/view?usp=share_link) Demo on how to setup remote Pdb debugging using PDB and some tips on how to use it for an external server.
+
 ## JStor / ArchivesSpace Harvesting
 
 ### 2022-11-16 Sprint demo
