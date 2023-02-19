@@ -127,6 +127,10 @@ Automating the flow of data from ePADD into the DRS
 - [Debugging with PDB](https://drive.google.com/file/d/15sXyk6NTzRWUS3r5Qsymxmsc4Z3vMlHY/view?usp=share_link) Demo on how to setup Pdb debugging locally.
 - [Remote debugging with PDB](https://drive.google.com/file/d/1M5IBJ0cxcJacGWCJqjMtQbF6SLM04i4M/view?usp=share_link) Demo on how to setup remote Pdb debugging using PDB and some tips on how to use it for an external server.
 
+### 2023-02-21 Sprint demos
+- [ePADD Export of Data][https://drive.google.com/file/d/1jtaks-SFC6IdMFiBj42MWsa9fKIlUafk/view?usp=share_link] Demo of how to export data from ePADD
+- [Performance Testing][https://drive.google.com/file/d/1sbEe3sahhKrZTf1kPmBgUGXL27k-Qrqf/view?usp=share_link] Demo on how to run a performance test against the ePADD Curator App and DAIS
+
 ## JStor / ArchivesSpace Harvesting
 
 ### 2022-11-16 Sprint demo
