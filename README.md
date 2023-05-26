@@ -7,12 +7,19 @@ Library Technology Services (LTS) is a Harvard University Information Technology
 [![Contributing Guidelines](http://img.shields.io/badge/CONTRIBUTING-Guidelines-blue.svg)](./contributing.md)
 
 ## Contents
+- [ETDs Pipeline](#etds-pipeline)
 - [Digital Repository Service](#digital-repository-service)
 - [Full Text Search](#full-text-search)
 - [Multimedia Presentation Service](#multimedia-presentation-service)
 - [Page Delivery Service](#page-delivery-service)
 - [Streaming Delivery Service](#streaming-delivery-service)
 - [Project Sprint Demos](#project-sprint-demos)
+
+##  ETDs Pipeline
+
+This pipeline is designed to ensure that the Electronic Theses and Dissertations (ETDs) coming from ProQuest are ingested into DASH (as appropriate), registered into HOLLIS, and deposited to the DRS
+
+- [Sprint 0 Project Planning Demo](https://harvard.zoom.us/rec/share/8see-ndwzL32xaQWTDfPp-YfNBNhWv6TivQqHsmXqYFjVmrVjGK9N-xbSNU7hiax.L8OPnFJ5M9j_dh6p) Demo of the ETDs pipeline preliminary design.
 
 ## Digital Repository Service
 
