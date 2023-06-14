@@ -21,6 +21,7 @@ This pipeline is designed to ensure that the Electronic Theses and Dissertations
 
 - [Sprint 0 Project Planning Demo](https://harvard.zoom.us/rec/share/8see-ndwzL32xaQWTDfPp-YfNBNhWv6TivQqHsmXqYFjVmrVjGK9N-xbSNU7hiax.L8OPnFJ5M9j_dh6p) Demo of the ETDs pipeline preliminary design.
 - [Sprint 1 Preliminary Design Documentation](https://harvard.zoom.us/rec/play/6VfJECymTAoGUzcCVbN9LFgeIbiDhFawHl6O4C6jdijh7f-2-AxydVAYEHHcti96ixalPSp7iZjydJUo.i1KE3C5HJUJEdHI8?canPlayFromShare=true&from=share_recording_detail&startTime=1685462551000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fharvard.zoom.us%2Frec%2Fshare%2FRldzzFF8cpG6FC1-wpLhCTd7SgjU9IKVs3ccGoxINsJ0lpYluI9kHoH3TbxkXVGH.boSJHyJ9-a_W5uNt%3FstartTime%3D1685462551000)
+- [Sorint 2 Message Driven Services Pipeline](https://harvard.zoom.us/rec/play/ki9gSU-s0_HRCyZFLQBn5LTUkljnm1SMXzWJhJaDXKy7QjTr3dkQ_t5xajJvMl0e8fc31vHBFW0YoEL7.0OQgItVX6shATtJy?canPlayFromShare=true&from=share_recording_detail&startTime=1686599398000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fharvard.zoom.us%2Frec%2Fshare%2Fzr4hzAJTfnBIRK-XcOrd4BpVJ0QGfMSsHw8M_VvZPh34jTskLTVFVD6d5dvJrJl7.aWky6x54n-gf2TX-%3FstartTime%3D1686599398000) Demo of the pipeline messaging from end-to-end
 
 
 ## Digital Repository Service
